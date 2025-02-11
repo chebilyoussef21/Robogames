@@ -1,0 +1,6 @@
+<?xml version="1.0"?> <!-- this will include all urdf files -->
+<robot xmlns:xacro="http://www.ros.org/wiki/xacro" name="big dawg">
+   
+    <xacro:include filename="dog.core.xacro"/>
+
+</robot>
